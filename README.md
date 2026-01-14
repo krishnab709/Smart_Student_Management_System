@@ -2,25 +2,18 @@
 
 A modern Student Management System 👨‍🎓 with features like Interactive Dashboard 🤩 Attendance Management 🏫Provide Feedback ✍ Result Generation 📜 Leave Application 🍂
 
-![SMS_Banner](https://github.com/Akash1362000/akash1362000.github.io/blob/master/styles/images/Django%20Student%20Management%20System%20Banner.jpg)
 
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://student-management-webapp.herokuapp.com/)
-[![travis-ci](https://api.travis-ci.com/Akash1362000/Django_Student_Management_System.svg?token=nv6BYq1BY3w4kf8uZuGj&branch=main)](https://travis-ci.com/github/Akash1362000/Django_Student_Management_System/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAkash1362000%2FDjango_Student_Management_System%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Akash1362000/Django_Student_Management_System/graphs/commit-activity)
 
 
 Checkout the live Website [here](https://student-management-system-4jym.onrender.com/)!
 
-Find the detailed project report [here](https://drive.google.com/file/d/1DTqbRJBoFuCHJdtb0SJwdiLgE6iOgjUG/view?usp=sharing)! 📜
 
 ### Meet the Developers ✨🌟
 
 <table>
 		<tr>
-			<td align="center"><img src="https://i.imgur.com/ZwcK1xV.jpg"  width=100px;"><br /><sub><b>Akash Shrivastava</b></sub><br/><a href="https://github.com/Akash1362000">👨‍💻🚴‍♂️📸</a></td>
-		   <td align="center"><img src="https://i.imgur.com/zvN556m.jpg"  width=100px;"><br /><sub><b>Akanksha Tamboli</b></sub><br/><a href="https://github.com/akankshast">💻🎨</a></td>
-			<td align="center"><img src="https://i.imgur.com/fVE1MSw.jpg"  width=100px;"><br /><sub><b>Shreejit Nair</b></sub><br/><a href="https://github.com/ShreejitNair">🎓🏏📱</a></td>			<td align="center"><img src="https://i.imgur.com/oKHebZM.jpg"  width=100px;"><br /><sub><b>Samiksha Naik</b></sub><br/><a href="https://github.com/samiksha8888989">💃📸</a></td>
+			<td align="center"><br /><sub><b>Krishnatanmay Bachhaob></sub><br/><a href="https://github.com/krishnab709">👨‍💻🚴‍♂️📸</a></td>
+		  
 		</tr>
 
 </table>
@@ -28,11 +21,7 @@ Find the detailed project report [here](https://drive.google.com/file/d/1DTqbRJB
 ## Development 👨‍💻
 Note : Make sure you have Python version 3.8+
 
-Environment Setup 🚀
 
-`$ git clone https://github.com/Akash1362000/Django_Student_Management_System.git`
-
-`$ cd Django_Student_Management_System/`
 
 Create `.env` file (refer `.env.example` file)
 
